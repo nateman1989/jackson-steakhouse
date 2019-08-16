@@ -11,6 +11,7 @@ h4 {
 
 }
 
+
 #mainav ul ul {
     visibility: hidden;
     opacity: 5 !important;
@@ -83,7 +84,8 @@ ul {
     .longhorn img,
     #cooking,
     #chef,
-    .aboveft {
+    .aboveft,
+    img{
         width: 100% !important;
 
     }
